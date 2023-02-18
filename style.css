@@ -1,0 +1,19 @@
+/*******
+
+COMMON
+
+*******/
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.font-primary{
+    color:turquoise;
+    font-weight: bolder;
+    font-size: larger;
+}
+.title-icon{
+    font-size: 20px;
+    font-weight: normal;
+}
